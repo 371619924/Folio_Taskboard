@@ -67,5 +67,3 @@ See `docs/DEPLOYMENT.md` for Vercel, Netlify, or Cloudflare Pages setup. All use
 `docs/firstname_lastname_task_manager_assessment.docx` is the editable Word submission draft. `docs/SUBMISSION.md` contains the same content in Markdown. Both contain design decisions, setup steps, tradeoffs, advanced features, and the complete SQL schema. Add your name, live URL, and GitHub URL, review it, then export a PDF or Word document named `firstname_lastname_task_manager_assessment.pdf` or `.docx`. Upload that document to Google Drive and share its link using the assessment form.
 
 Keep the original assessment PDF out of this repository. Do not publicly post the final submission link. A GitHub repository can be public or private as allowed by the assessment.
-
-中文操作步骤见 `开始使用.md`。
